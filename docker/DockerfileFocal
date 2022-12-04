@@ -1,4 +1,4 @@
-FROM ghcr.io/savoirfairelinux/opendht/opendht-deps-bionic:latest
+FROM ghcr.io/iranmanesh/opendht/opendht-deps-bionic:latest
 LABEL maintainer="Adrien Béraud <adrien.beraud@savoirfairelinux.com>"
 LABEL org.opencontainers.image.source https://github.com/savoirfairelinux/opendht
 
