@@ -1,4 +1,4 @@
-FROM ghcr.io/iranmanesh/opendht-deps:latest
+FROM ghcr.io/iranmanesh/opendht/opendht-deps:latest
 LABEL maintainer="Adrien Béraud <adrien.beraud@savoirfairelinux.com>"
 LABEL org.opencontainers.image.source https://github.com/savoirfairelinux/opendht
 
