@@ -186,7 +186,7 @@ jobs:
   build-python-wheel:
     name: Release and build Python Wheel package
     runs-on: ubuntu-latest
-    container: ghcr.io/savoirfairelinux/opendht/opendht-deps:latest
+    container: ghcr.io/iranmanesh/opendht/opendht-deps:latest
 
     permissions:
       contents: write
